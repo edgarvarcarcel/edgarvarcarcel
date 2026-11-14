@@ -32,8 +32,8 @@ Líder de analítica con **8+ años de experiencia** transformando datos en deci
    Pipeline de datos desde ingesta hasta capa Gold con validaciones de calidad y tablero ejecutivo de KPIs.
 2. **[Caso de Negocio: Retención / Pricing / Forecasting](#)**  
    Análisis y modelado orientado a toma de decisiones con cuantificación de impacto estimado.
-3. **[Playbook de Gobierno y Estándares de Analítica](#)**  
-   Guías de estilo SQL/Python, plantilla de definición de KPIs y framework de priorización para equipos de datos.
+3. **[Herramienta Pricing Basilea III]([#](https://github.com/edgarvarcarcel/herramienta_pricing/tree/main))**  
+   Herramienta de Rentabilidad para cálculo de RAROC / ROAE con base en el capital requerido.
 
 ---
 

@@ -19,7 +19,7 @@ Líder de analítica con **8+ años de experiencia** transformando datos en deci
 
 | Área | Herramientas y Enfoque |
 | :--- | :--- |
-| **Lenguajes & Modelado** | SQL, Python (`pandas`, `scikit-learn`, `streamlit`), [R / dbt si aplica] |
+| **Lenguajes & Modelado** | SQL, Python (`pandas`, `scikit-learn`, `streamlit`), [R / VBS] |
 | **BI & Visualización** | [Power BI / Tableau / Looker / Streamlit] |
 | **Datos & Cloud** | [BigQuery / Snowflake / Redshift / Azure / AWS / PostgreSQL] |
 | **Gestión & Gobierno** | Definición de KPIs, Diccionarios de Datos, Calidad del Dato, [Scrum / Kanban] |

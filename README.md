@@ -30,8 +30,8 @@ Líder de analítica con **8+ años de experiencia** transformando datos en deci
 
 1. **[Arquitectura Analítica End-to-End](#)**  
    Pipeline de datos desde ingesta hasta capa Gold con validaciones de calidad y tablero ejecutivo de KPIs.
-2. **[Caso de Negocio: Retención / Pricing / Forecasting](#)**  
-   Análisis y modelado orientado a toma de decisiones con cuantificación de impacto estimado.
+2. **[GymVault - Local Gym App](https://github.com/edgarvarcarcel/local_app_gym.git)**  
+   Un capricho para no depender de subscripciones a aplicaciones para poder darle seguimiento a tus rutinas.
 3. **[Herramienta Pricing Basilea III](https://github.com/edgarvarcarcel/herramienta_pricing/tree/main)**  
    Herramienta de Rentabilidad para cálculo de RAROC / ROAE con base en el capital requerido.
 
